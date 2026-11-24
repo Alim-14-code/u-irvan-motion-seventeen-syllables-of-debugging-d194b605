@@ -1,0 +1,3 @@
+Stack trace at midnight
+the bug hides where I looked twice
+it was a typo
